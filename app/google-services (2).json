@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918039766881",
+    "firebase_url": "https://wssaup-aa1f5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wssaup-aa1f5",
+    "storage_bucket": "wssaup-aa1f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918039766881:android:8fc6b3033d00f561e8c720",
+        "android_client_info": {
+          "package_name": "com.example.robar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918039766881-nfr9l68ktvtdb2klfin4s3uputn8ug38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.robar",
+            "certificate_hash": "658e7dabeeab4609cc67c7cf5d28a27061be0ee1"
+          }
+        },
+        {
+          "client_id": "918039766881-ibj41qrijvepdd5mjvg69mj7bavl5u32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjfQCjpB6y4_Thcfyjrya4VGgz9bvq22c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918039766881-ibj41qrijvepdd5mjvg69mj7bavl5u32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
